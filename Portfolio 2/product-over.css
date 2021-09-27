@@ -1,0 +1,51 @@
+body{
+    background-color:#311058;   
+    font-family: 'Space Grotesk', sans-serif;
+    color: white;
+}
+#mainnav .nav-link{
+    color: white;
+    font-size: 14px;
+   }
+   
+   #mainnav .nav-link:hover{
+       color: palevioletred;
+      }
+   
+      #mainnav .disabled{
+       color:green;
+   }
+   
+.top-title{
+    font-size: 60px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.other-main p{
+    font-weight: 300;
+}
+
+.other-main h3{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.other-main img{
+    margin-top: 40px;
+
+}
+
+.peace{
+    background: linear-gradient(270deg, #7DADF4 1.9%, #6680F0 46.35%, #274CE7 100%);
+    border-radius: 5px;
+}
+
+.peace img{
+    width: 80%;
+    display: inline;
+}
+
+.peace h3{
+    display: inline;
+}
